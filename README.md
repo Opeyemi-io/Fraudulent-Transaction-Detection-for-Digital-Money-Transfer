@@ -12,5 +12,5 @@ These four challenges are one problem seen from four angles. NovaPay needs a sin
 
 
 ### Identify the target variable for the prediction
- Target wariable = is fraud because it shos a skewed distribution of  fraudlent and legitmate transactions
+ Target wariable = is fraud because it shows a skewed distribution of  fraudlent and legitmate transactions
 -------
